@@ -6,7 +6,7 @@ import math
 import copy
 
 ## Local imports
-from .atom import Atom
+from atom import Atom
 
 class Simulation:
 
